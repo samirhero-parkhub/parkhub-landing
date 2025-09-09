@@ -52,12 +52,12 @@ const About = () => {
               </h3>
               <p className="dark:text-gray-200 text-gray-800 text-lg leading-relaxed">
                 {t(
-                  'Parking in Baku is fragmented and expensive. Businesses pay up to 180 AZN per employee, and drivers juggle multiple subscriptions.'
+                  'Parking in Baku is fragmented and expensive. Businesses pay up to 300 AZN per employee, and drivers juggle multiple subscriptions.'
                 )}
               </p>
               <p className="dark:text-gray-200 text-gray-800 text-lg leading-relaxed">
                 {t(
-                  'Parking operators face empty slots and payment delays, making operations inefficient.'
+                  'In the other hand, parking operators face empty slots and payment delays, making operations inefficient.'
                 )}
               </p>
             </div>
@@ -69,7 +69,7 @@ const About = () => {
               </h3>
               <p className="dark:text-gray-200 text-gray-800 text-lg leading-relaxed">
                 {t(
-                  'PARK HUB BAKU offers a unified subscription plan, giving access to all parking locations in Baku with one app.'
+                  'Park Hub Baku offers a unified subscription plan, giving access to all parking locations in Baku with one app.'
                 )}
               </p>
               <p className="dark:text-gray-200 text-gray-800 text-lg leading-relaxed">
