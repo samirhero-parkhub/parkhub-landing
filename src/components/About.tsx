@@ -30,7 +30,7 @@ const About = () => {
           transition={{ duration: 0.5 }}
           viewport={{ once: true }}
         >
-          {t('About PARK HUB BAKU')}
+          {t('Find Slot with Park Hub Baku')}
         </motion.h2>
 
         <motion.div
